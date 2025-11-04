@@ -1,0 +1,29 @@
+{
+    "Items": [
+        {
+            "thumbnailPath": "019a0801-98ee-73b3-b804-69b3e0f30d06.png",
+            "glbPath": "019a0801-98ee-73b3-b804-69b3e0f30d06.glb",
+            "category": "furniture"
+        },
+        {
+            "thumbnailPath": "019a08f3-c1c1-71f2-9aa3-5dda294a93d0.png",
+            "glbPath": "019a08f3-c1c1-71f2-9aa3-5dda294a93d0.glb",
+            "category": "chair"
+        },
+        {
+            "thumbnailPath": "019917ed-7686-765c-882d-8a642ac68235.png",
+            "glbPath": "019917ed-7686-765c-882d-8a642ac68235.glb",
+            "category": "furniture"
+        },
+		{
+            "thumbnailPath": "01991ad5-d133-72e0-aee4-8440c2269b2d.png",
+            "glbPath": "01991ad5-d133-72e0-aee4-8440c2269b2d.glb",
+            "category": "furniture"
+        },
+		{
+            "thumbnailPath": "019911ca-09d9-7ea6-8ffe-89d88731d995.png",
+            "glbPath": "019911ca-09d9-7ea6-8ffe-89d88731d995.glb",
+            "category": "chair"
+        }
+    ]
+}
