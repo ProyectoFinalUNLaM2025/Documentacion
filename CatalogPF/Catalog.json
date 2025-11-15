@@ -1,0 +1,59 @@
+{
+    "Items": [
+        {
+            "thumbnailPath": "019911ca-09d9-7ea6-8ffe-89d88731d995.png",
+            "glbPath": "019911ca-09d9-7ea6-8ffe-89d88731d995.glb",
+            "category": "chair"
+        },
+        {
+            "thumbnailPath": "019917ed-7686-765c-882d-8a642ac68235.png",
+            "glbPath": "019917ed-7686-765c-882d-8a642ac68235.glb",
+            "category": "toy"
+        },
+        {
+            "thumbnailPath": "01992043-1874-74f6-94c6-5cf94bcd1e6c.png",
+            "glbPath": "01992043-1874-74f6-94c6-5cf94bcd1e6c.glb",
+            "category": "chair"
+        },
+        {
+            "thumbnailPath": "0199c461-43b2-79ec-b52d-d17913d8db32.png",
+            "glbPath": "0199c461-43b2-79ec-b52d-d17913d8db32.glb",
+            "category": "planta"
+        },
+        {
+            "thumbnailPath": "019a0810-5be4-7146-97ed-9e0dacacda60.png",
+            "glbPath": "019a0810-5be4-7146-97ed-9e0dacacda60.glb",
+            "category": "backpack"
+        },
+        {
+            "thumbnailPath": "019a0801-98ee-73b3-b804-69b3e0f30d06.png",
+            "glbPath": "019a0801-98ee-73b3-b804-69b3e0f30d06.glb",
+            "category": "apoyapies"
+        },
+        {
+            "thumbnailPath": "sillon_chico.png",
+            "glbPath": "sillon_chico.glb",
+            "category": "sillon"
+        },
+        {
+            "thumbnailPath": "mesa_ratona.png",
+            "glbPath": "mesa_ratona.glb",
+            "category": "chair"
+        },
+        {
+            "thumbnailPath": "sillon_negro.png",
+            "glbPath": "sillon_negro.glb",
+            "category": "sillon"
+        },
+        {
+            "thumbnailPath": "mesa_redonda.png",
+            "glbPath": "mesa_redonda.glb",
+            "category": "mesaratona"
+        },
+        {
+            "thumbnailPath": "019a08f3-c1c1-71f2-9aa3-5dda294a93d0.png",
+            "glbPath": "019a08f3-c1c1-71f2-9aa3-5dda294a93d0.glb",
+            "category": "chair"
+        }
+    ]
+}
